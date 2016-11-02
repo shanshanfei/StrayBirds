@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /StrayBirds
+url: /blog
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -65,7 +65,7 @@ nav:
 
 #Author config
 author:
-    name: minixalpha
+    name: shanshanfei
     email: xkzbeta@outlook.comment
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 minixalpha
@@ -124,6 +124,7 @@ title: 飞鸟集
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
 disqusname: minixalpha
+source: app
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
